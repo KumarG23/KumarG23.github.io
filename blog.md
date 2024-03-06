@@ -1,7 +1,4 @@
-<style type="text/css>
-body {
-    background-color: rgb(88,185,219);
-}
+<link href="style.css" rel="stylesheet"></link>
 
 ### [My Linkedin Page](https://www.linkedin.com/feed/)
 
