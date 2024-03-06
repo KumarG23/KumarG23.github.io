@@ -1,4 +1,4 @@
-### Linkdin [My Linkdin Page](https://www.linkedin.com/feed/)
+### [My Linkedin Page](https://www.linkedin.com/feed/)
 
 # **Neal Sharma's Blog**
 
