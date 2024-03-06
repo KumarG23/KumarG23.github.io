@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 <link href="style.css" rel="stylesheet"></link>
 
 ### [My Linkedin Page](https://www.linkedin.com/feed/)
