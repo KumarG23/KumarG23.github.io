@@ -2,4 +2,4 @@
 
 # **Neal Sharma's Blog**
 
-![Neal's Family]/assets/images/My-Family.JPEG
+![Neal's Family]
