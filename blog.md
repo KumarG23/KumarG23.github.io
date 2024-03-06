@@ -1,3 +1,8 @@
+<style type="text/css>
+body {
+    background-color: rgb(88,185,219);
+}
+
 ### [My Linkedin Page](https://www.linkedin.com/feed/)
 
 # **Neal Sharma's Blog**
