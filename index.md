@@ -18,4 +18,4 @@
 
 #### I was a professional soccer player in Brazil right after graduating high school, I have been trying to find my "thing" ever since. I have owned a gas station, been a real estate agent, been a mailman, I have done day trading, doordash, and so many other jobs/careers. I've loved what I have learned along the way but nothing quite fit. I believe this program will set me up to find my future
 
-[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318) :cat:
+[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318) 😻
