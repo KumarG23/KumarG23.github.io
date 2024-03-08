@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet">
 
-### [My Linkedin Page](https://www.linkedin.com/feed/)
+### [My Linkedin Page](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BYu6g0rZIQ4ah1w2wcnNyRw%3D%3D)
 
 # **Neal Sharma's Blog**
 
