@@ -4,7 +4,7 @@
 
 # **Neal Sharma's Blog**
 
-![Neal's Family](https://file%2B.vscode-resource.vscode-cdn.net/Users/nealsharma/Documents/GitHub/KumarG23.github.io/img/2A654B2F-7025-4094-8CC7-06A124A22335_1_105_c.jpeg?version%3D1709911688414)
+![Neal's Family](https://scontent.flex2-1.fna.fbcdn.net/v/t39.30808-6/423224869_10159352090592364_7749783761514578179_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5FbuwayYy78AX8pdH86&_nc_ht=scontent.flex2-1.fna&oh=00_AfBKmnnA3ALbOq6dt5ufHdnPZiQF5652OuEN7RZDVawbew&oe=65ED06E2)
 
 ## **Was your first week what you expected? Why? Why not?**
 #### When I first signed up for the class I knew absolute zero about coding. In my mind I saw myself in a dark room typing code all day. But i'm realizing that's not really what coding is. It's more about collaboration, which seems to be why we're learning git and github right off the bat. 
