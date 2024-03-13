@@ -1,8 +1,8 @@
 <link href="style.css" rel="stylesheet">
 
-## [My Linkedin Page](https://www.linkedin.com/in/neal-sharma23)
+## [My Linkedin Page](https://www.linkedin.com/in/neal-sharma23)🔗
 
-## [My First Project](https://kumarg23.github.io/food-blog.github.io/)
+## [My First Project](https://kumarg23.github.io/food-blog.github.io/)🍛
 
 # **Neal Sharma's Awesome Inc. Blog**
 
@@ -20,7 +20,7 @@
 
  I was a professional soccer player in Brazil right after graduating high school, I have been trying to find my "thing" ever since. I have owned a gas station, been a real estate agent, been a mailman, I have done day trading, doordash, and so many other jobs/careers. I've loved what I have learned along the way but nothing quite fit. I believe this program will set me up to find my future
 
-[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318) 😻
+[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318)😻 
 
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
 
