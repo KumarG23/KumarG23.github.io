@@ -4,6 +4,8 @@
 
 # **Neal Sharma's Awesome Inc. Blog**
 
+![My Family](img/my-family.JPG)
+
 ## **Was your first week what you expected? Why? Why not?**
 
  When I first signed up for the class I knew absolute zero about coding. In my mind I saw myself in a dark room typing code all day. But i'm realizing that's not really what coding is. It's more about collaboration, which seems to be why we're learning git and github right off the bat
