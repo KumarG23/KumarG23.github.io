@@ -32,7 +32,7 @@
 
 ## **How do you solve a problem?**
 
- I definitely learn best by doing. So for example with this last project I took what I had learned in the slides and tried to add to it by just trying things. I would see what worked and what didnt and go from there. To quote from my project this week and the golfer Sam Sneade **"practice puts brains in your muscles"**. I also of course use google and youtube to find different ways to do what I am tryin to do.
+ I definitely learn best by doing. So for example with this last project I took what I had learned in the slides and tried to add to it by just trying things. I would see what worked and what didnt and go from there. To quote from my project this week and the golfer Sam Sneade **"practice puts brains in your muscles"**. I also of course use google and youtube to find different ways to do what I am trying to do.
 
 ## **What methods do you use to help get yourself unstuck?**
 
