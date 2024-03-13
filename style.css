@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom right, lightcyan, #4ec9b4);
+    background-image: linear-gradient(to bottom right, rgb(172, 240, 240), #4ec9b4);
     color: black;
     font-weight: 300;
     padding-bottom: 50px;
