@@ -24,15 +24,15 @@
 
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
 
- After this week I learned how fun it is to design your site with css. I also learned I dont know much about functionality. I am very much looking forward to learning more about javascript and the funtions that it can make.
+ After this week I learned how fun it is to design your site with css. I also learned I don't know much about functionality. I am very much looking forward to learning more about javascript and the functions that it can make.
 
 ## What are you struggling with?
 
- I think my biggest struggle so far is that I really dont know much and I have so much to learn. Learning is something that I enjoy so I would say it's not so much a struggle just a reality of where I am currently.
+ I think my biggest struggle so far is that I really don't know much and I have so much to learn. Learning is something that I enjoy so I would say it's not so much a struggle just a reality of where I am currently.
 
 ## How do you solve a problem?
 
- I definitely learn best by doing. So for example with this last project I took what I had learned in the slides and tried to add to it by just trying things. I would see what worked and what didnt and go from there. To quote from my project this week and the golfer Sam Sneade **"practice puts brains in your muscles"**. I also of course use google and youtube to find different ways to do what I am tryin to do. I have also been making folders with everyones projects, seeing what they did and trying to apply it to my projects. 
+ I definitely learn best by doing. So for example with this last project I took what I had learned in the slides and tried to add to it by just trying things. I would see what worked and what didn't and go from there. To quote from my project this week and the golfer Sam Sneade **"practice puts brains in your muscles"**. I also of course use google and youtube to find different ways to do what I am trying to do. I have also been making folders with everyone's projects, seeing what they did and trying to apply it to my projects. 
 
 ## What methods do you use to help get yourself unstuck?
 
