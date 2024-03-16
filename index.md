@@ -22,6 +22,14 @@
 
 [Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318)😻 
 
+| Fan | Not a Fan |
+|:----:|:---------:|
+| Soccer| Arsenal |
+| Cooking | Mushrooms |
+| Golf | My Driver |
+
+
+
 ## What is something you wish you could do but currently do not have the coding skills to accomplish?
 
  After this week I learned how fun it is to design your site with css. I also learned I dont know much about functionality. I am very much looking forward to learning more about javascript and the funtions that it can make.
