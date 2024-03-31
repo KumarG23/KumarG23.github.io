@@ -55,3 +55,17 @@
 ## What are some objects that your blog incorporates?
 
   I don't believe I have incorporated any objects into this blog yet. I definitely plan to change that soon. I have been moving this week which hindered my time with doing much extra. I plan to start fresh next week and get to work even harder to make up for it. JavaScript seems like it opens up a ton of doors and I can't wait to learn more.
+
+# **Week 4**
+
+## What was helpful during Onboarding working remotely?
+
+I really enjoy working from home. It's great being able to work on things at your own pace/time. However, I am looking forward to really buckling down in person and getting to work.
+
+## What hindered your progress during Onboarding?
+
+The biggest hinderance would have to be that I moved during onboarding. It basically took two days away from what I was learning. I think I made up for it but I really don't like feeling like I am behind.
+
+## How did you overcome challenges during Onboarding?
+
+I think the way I overcame challenges during onboarding is how I overcome any challenge. Hard work and patience. I truly believe that with those two things, plus some confidence in yourself, you can do anything.
