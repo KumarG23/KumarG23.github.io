@@ -20,7 +20,7 @@
 
  I was a professional soccer player in Brazil right after graduating high school, I have been trying to find my "thing" ever since. I have owned a gas station, been a real estate agent, been a mailman, I have done day trading, DoorDash, and so many other jobs/careers. I've loved what I have learned along the way but nothing quite fit. I believe this program will set me up to find my future
 
-[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318)😻 
+[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318)😻
 
 | Fan | Not a Fan |
 |:----:|:---------:|
@@ -54,5 +54,19 @@
 
 ## What are some objects that your blog incorporates?
 
- My blog contains objects including: 
-  I have not yet incorporated any javascript into my blog. I have been moving this week which has severely lessened my time. Now that I am all moved in I plan to dedicate some time to working on incorporating more style and some javascript into my blog. 
+ My blog contains objects including:
+  I have not yet incorporated any javascript into my blog. I have been moving this week which has severely lessened my time. Now that I am all moved in I plan to dedicate some time to working on incorporating more style and some javascript into my blog.
+
+# **Week 4**
+
+## What was helpful during Onboarding working remotely?
+
+I really enjoy working from home. It's great being able to work on things at your own pace/time. However, I am looking forward to really buckling down in person and getting to work.
+
+## What hindered your progress during Onboarding?
+
+The biggest hinderance would have to be that I moved during onboarding. It basically took two days away from what I was learning. I think I made up for it but I really don't like feeling like I am behind.
+
+## How did you overcome challenges during Onboarding?
+
+I think the way I overcame challenges during onboarding is how I overcome any challenge. Hard work and patience. I truly believe that with those two things, plus some confidence in yourself, you can do anything.
