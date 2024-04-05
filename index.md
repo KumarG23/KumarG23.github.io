@@ -40,8 +40,22 @@
 
 ## How do you solve a problem?
 
- I definitely learn best by doing. So for example with this last project I took what I had learned in the slides and tried to add to it by just trying things. I would see what worked and what didn't and go from there. To quote from my project this week and the golfer Sam Sneade **"practice puts brains in your muscles"**. I also of course use google and youtube to find different ways to do what I am trying to do. I have also been making folders with everyone's projects, seeing what they did and trying to apply it to my projects. 
+ I definitely learn best by doing. So for example with this last project I took what I had learned in the slides and tried to add to it by just trying things. I would see what worked and what didn't and go from there. To quote from my project this week and the golfer Sam Sneade **"practice puts brains in your muscles"**. I also of course use google and youtube to find different ways to do what I am trying to do. I have also been making folders with everyone's projects, seeing what they did and trying to apply it to my projects.
 
 ## What methods do you use to help get yourself unstuck?
 
- I just keep going. I look up things on google and youtube or I look at sites that are already out there with devtools and see what they did with their designs/code. I am staying away from AI for this stuff as much as I can. I used copilot this week to help make my logo and that was it. 
+ I just keep going. I look up things on google and youtube or I look at sites that are already out there with devtools and see what they did with their designs/code. I am staying away from AI for this stuff as much as I can. I used copilot this week to help make my logo and that was it.
+
+# **Sprint 1 - HTML/CSS/JS/State**
+
+## What is the number one thing that held you back this week? Why?
+
+Definitely not asking questions. The teachers don't seem to mind answering questions at all and I need to use them as a resource more. It's good to try to figure things out on your own. But I should seek help soon.
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+I think the Atomic Design thing makes a lot of sense to me. I want to learn more about JavaScript because there is a lot to it and it is extremely useful.
+
+## What is your "Why?"
+
+I want to learn something new. I want to be a good role model and provider for my son. I enjoy making cool things on the computer.
