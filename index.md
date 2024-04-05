@@ -65,7 +65,7 @@ The biggest hinderance would have to be that I moved during onboarding. It basic
 
 I think the way I overcame challenges during onboarding is how I overcome any challenge. Hard work and patience. I truly believe that with those two things, plus some confidence in yourself, you can do anything.
 
-# **Sprint 1** 
+# **Sprint 1**
 
 ## What is the number one thing that held you back this week? Why?
 
