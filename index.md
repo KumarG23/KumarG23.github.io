@@ -44,4 +44,38 @@
 
 ## What methods do you use to help get yourself unstuck?
 
- I just keep going. I look up things on google and youtube or I look at sites that are already out there with devtools and see what they did with their designs/code. I am staying away from AI for this stuff as much as I can. I used copilot this week to help make my logo and that was it. 
+ I just keep going. I look up things on google and youtube or I look at sites that are already out there with devtools and see what they did with their designs/code. I am staying away from AI for this stuff as much as I can. I used copilot this week to help make my logo and that was it.
+
+## What are some objects that your blog incorporates?
+
+  I don't believe I have incorporated any objects into this blog yet. I definitely plan to change that soon. I have been moving this week which hindered my time with doing much extra. I plan to start fresh next week and get to work even harder to make up for it. JavaScript seems like it opens up a ton of doors and I can't wait to learn more.
+  I don't believe I have incorporated any objects into this blog yet. I definitely plan to change that soon. I have been moving this week which hindered my time with doing much extra. I plan to start fresh next week and get to work even harder to make up for it. JavaScript seems like it opens up a ton of doors and I can't wait to learn more.
+
+# **Week 4**
+
+## What was helpful during Onboarding working remotely?
+
+I really enjoy working from home. It's great being able to work on things at your own pace/time. However, I am looking forward to really buckling down in person and getting to work.
+
+## What hindered your progress during Onboarding?
+
+The biggest hinderance would have to be that I moved during onboarding. It basically took two days away from what I was learning. I think I made up for it but I really don't like feeling like I am behind.
+
+## How did you overcome challenges during Onboarding?
+
+I think the way I overcame challenges during onboarding is how I overcome any challenge. Hard work and patience. I truly believe that with those two things, plus some confidence in yourself, you can do anything.
+
+# **Sprint 1** 
+
+## What is the number one thing that held you back this week? Why?
+
+Definitely ask more questions. I need to use the teachers as a resource more. They really don't mind helping. I like to figure things out on my own if I can but I need to not spin my wheels too long.
+
+## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+The atomic design thing makes a lot of sense to me. I should implement that more. I want to learn more JavaScript. There is a lot to it but it is extremely useful and there is so much you can do with it.
+
+## What is your “Why”?
+
+I want to learn new things. I want to be a good role model and provider for my son. I want to make more cool things.
+
