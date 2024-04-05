@@ -18,9 +18,9 @@
 
 ## **What is something about you that can only be learned from reading this blog?**
 
- I was a professional soccer player in Brazil right after graduating high school, I have been trying to find my "thing" ever since. I have owned a gas station, been a real estate agent, been a mailman, I have done day trading, doordash, and so many other jobs/careers. I've loved what I have learned along the way but nothing quite fit. I believe this program will set me up to find my future
+ I was a professional soccer player in Brazil right after graduating high school, I have been trying to find my "thing" ever since. I have owned a gas station, been a real estate agent, been a mailman, I have done day trading, DoorDash, and so many other jobs/careers. I've loved what I have learned along the way but nothing quite fit. I believe this program will set me up to find my future
 
-[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318)😻 
+[Check out my cat at story time!](https://www.tiktok.com/@marinafsharma/video/7342880475717078318)😻
 
 | Fan | Not a Fan |
 |:----:|:---------:|
@@ -44,18 +44,4 @@
 
 ## What methods do you use to help get yourself unstuck?
 
- I just keep going. I look up things on google and youtube or I look at sites that are already out there with devtools and see what they did with their designs/code. I am staying away from AI for this stuff as much as I can. I used copilot this week to help make my logo and that was it.
-
-# **Sprint 1 - HTML/CSS/JS/State**
-
-## What is the number one thing that held you back this week? Why?
-
-Definitely not asking questions. The teachers don't seem to mind answering questions at all and I need to use them as a resource more. It's good to try to figure things out on your own. But I should seek help soon.
-
-## What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
-
-I think the Atomic Design thing makes a lot of sense to me. I want to learn more about JavaScript because there is a lot to it and it is extremely useful.
-
-## What is your "Why?"
-
-I want to learn something new. I want to be a good role model and provider for my son. I enjoy making cool things on the computer.
+ I just keep going. I look up things on google and youtube or I look at sites that are already out there with devtools and see what they did with their designs/code. I am staying away from AI for this stuff as much as I can. I used copilot this week to help make my logo and that was it. 
