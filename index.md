@@ -78,4 +78,3 @@ The atomic design thing makes a lot of sense to me. I should implement that more
 ## What is your “Why”?
 
 I want to learn new things. I want to be a good role model and provider for my son. I want to make more cool things.
-
