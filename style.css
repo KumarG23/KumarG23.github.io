@@ -1,9 +1,138 @@
-body {
-    background-color: lightcyan;
-    color: black;
-    font-weight: 300;
-    padding-bottom: 50px;
-    padding-top: 50px;
+html {
+  scroll-behavior: smooth;
+  cursor: url(img/chopsticks.png), auto;
 }
+
+body {
+  background-color: beige;
+  cursor: url(img/chopsticks.png), auto;
+}
+
+@keyframes slideInLeft {
+  /* name of animation */
+  from {
+      transform: translateX(-300px);
+      /* start 300px to the left */
+
+  }
+
+  to {
+      transform: translateX(0);
+      /* end in original position */
+
+  }
+  /*gives keyframe to manipulate header */
+}
+
+
+@keyframes glowing {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 50% 0;
+    }
+}
+
+
+header {
+  justify-content: space-between;
+}
+
+#socials {
+  font-size: 2.5rem;
+  cursor: url(img/chopsticks.png), auto;
+}
+
+#icon {
+  color: #81b14f;
+  cursor: url(img/chopsticks.png), auto;
+}
+
+#icon:hover {
+  color: #451b04;
+  cursor: url(img/chopsticks.png), auto;
+}
+
+
+
+#info {
+  background: -webkit-linear-gradient(#81b14f, #451b04);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: transparent;
+}
+
+.btn {
+  background-color: #451b04;
+}
+
+.btn:hover {
+  background-color: #81b14f;
+  color: #451b04;
+  transform: translateY(-8px);
+}
+
+#left-side {
+  animation: slideInLeft 1s ease-in .5s;
+}
+
+#pic {
+  border-radius: 50%;
+}
+
+#about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #81b14f;
+}
+
+#right-side {
+  line-height: 2;
+}
+
+#par {
+  background: -webkit-linear-gradient(#81b14f, #451b04);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: transparent;
+  padding-left: 5%;
+  padding-right: 10%;
+
+  font-size: 1.2rem;
+}
+
+#experience {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #81b14f;
+}
+
+#projects {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #81b14f;
+}
+
+#pro-link {
+  cursor: url(img/chopsticks.png), auto;
+}
+
+#pro-link:hover {
+  transform: translateY(10px);
+}
+
+img {
+  color: #111;
+  background: #81f505;
+  box-shadow: 0 0 50px #81f505;
+}
+
 
 

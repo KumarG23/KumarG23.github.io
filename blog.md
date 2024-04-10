@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet">
+<link href="style1.css" rel="stylesheet">
 
 ## [My Linkedin Page](https://www.linkedin.com/in/neal-sharma23)🔗
 
