@@ -81,6 +81,8 @@ The atomic design thing makes a lot of sense to me. I should implement that more
 
 I want to learn new things. I want to be a good role model and provider for my son. I want to make more cool things.
 
+# **Sprint 2**
+
 ## What did you learn about that helped you understand the development process?
 
 I feel like I am starting to understand JavaScript a bit better this week. I think by challenging myself to try for the stretch goal of doing as much as possible with just JavaScript helped a lot in my understanding.
