@@ -1,8 +1,10 @@
-<link href="style.css" rel="stylesheet">
+<link href="style1.css" rel="stylesheet">
 
 ## [My Linkedin Page](https://www.linkedin.com/in/neal-sharma23)🔗
 
 ## [My First Project](https://kumarg23.github.io/food-blog.github.io/)🍛
+
+## [My Portfolio](./Kumar-portfolio-page/)👨‍💼
 
 # **Neal Sharma's Awesome Inc. Blog**
 
@@ -79,3 +81,18 @@ The atomic design thing makes a lot of sense to me. I should implement that more
 
 I want to learn new things. I want to be a good role model and provider for my son. I want to make more cool things.
 
+## What did you learn about that helped you understand the development process?
+
+I feel like I am starting to understand JavaScript a bit better this week. I think by challenging myself to try for the stretch goal of doing as much as possible with just JavaScript helped a lot in my understanding.
+
+## What does it mean to develop good code?
+
+I am no expert of course but I think good code is readable to someone who didn't write the code. The code is DRY and organized and gets the job done.
+
+## What does it mean to be a good developer?
+
+This is a tough one for me to answer right now as I wouldn't say I am a good developer yet. But I think a good developer would be someone who has the skills and knowledge to turn ideas into code. Someone who is creative problem solving and design. Must have attention to detail and be collaborative with the team. Someone who is passionate about what they do.
+
+## What is one thing that programmers hate doing?
+
+Unreadable and WET code.
