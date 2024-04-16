@@ -51,7 +51,7 @@
 ## What are some objects that your blog incorporates?
 
   I don't believe I have incorporated any objects into this blog yet. I definitely plan to change that soon. I have been moving this week which hindered my time with doing much extra. I plan to start fresh next week and get to work even harder to make up for it. JavaScript seems like it opens up a ton of doors and I can't wait to learn more.
-  I don't believe I have incorporated any objects into this blog yet. I definitely plan to change that soon. I have been moving this week which hindered my time with doing much extra. I plan to start fresh next week and get to work even harder to make up for it. JavaScript seems like it opens up a ton of doors and I can't wait to learn more.
+  
 
 # **Week 4**
 
